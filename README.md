@@ -1,1 +1,3 @@
 # Machine-Learning-Titanic-Project
+
+In this project I was tasked with analyzing available data on Titanic passengers, such as their name, age, gender, socio-economic class, and fare to potentially provide insights into the factors that influenced survival. For this project I utilized the power of machine learning, Random Forest Classifier and XGBoost algorithms,to predict what sort of people where more likely to survive. The final (best) model these machine learning techniques calculated was then used to predict the fate of passengers, whose fate was unknown to me. These predictions were submitted to the Kaggle competition site and was given a score determining how well the model worked.
